@@ -10,5 +10,8 @@ public class Sample {
 		// TODO Auto-generated method stub
 		System.out.println("This is fun code");
 	}
-
+	public static void meghana() {
+		// TODO Auto-generated method stub
+		System.out.println("This is meghana code");
+	}
 }
